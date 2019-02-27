@@ -1,0 +1,39 @@
+body{
+background:black;
+color: #ffffff;
+}
+body{
+  text-decoration: none;
+  front-size:2.5cm;
+  margin:10px;
+  padding:20px;
+}
+a{
+  color: green
+}
+a:link {
+  text-decoration: none;
+}
+a:hover{
+  background-color: orange
+}
+p{
+  font-family:"arial"
+}
+h1{
+  font-family:"courier new"
+}
+h1{
+color:Green;
+}
+address{
+  color: Orange;
+}
+p.Center{
+  text-align: center;
+}
+p.large{
+  font-size: 200%;
+  font-family:"courier new"
+
+}
